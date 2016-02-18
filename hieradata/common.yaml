@@ -1,0 +1,6 @@
+---
+classes:
+  - ntp
+
+ntp::server:
+  - pool.ntp.org

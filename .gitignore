@@ -1,0 +1,6 @@
+.vagrant
+.tmp
+.librarian
+Puppetfile.lock
+puppet/modules/*
+*.zip
