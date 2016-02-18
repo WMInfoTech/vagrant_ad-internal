@@ -73,6 +73,6 @@ using `vagrant provision`.
 ### Passwords
 
 The only service that uses a password is PostgreSQL:
-Username: ad_internal
-Password: password
-Database: ad_internal
+  - Username: ad_internal
+  - Password: password
+  - Database: ad_internal
